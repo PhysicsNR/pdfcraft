@@ -1,0 +1,18 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
